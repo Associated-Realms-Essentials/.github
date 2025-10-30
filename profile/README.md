@@ -1,12 +1,8 @@
-## Hi there 👋
+# Welcome to Associated Realms Essentials
+`Associated Realms Essentials` was created as a popietry lightweight addon for `Clidewood Realm`,
+to help the administrators with moderation and to enhance the user experience.
 
-<!--
+We have recently decided to release Associated Realms Essentials,
+because we believe that making this great addon available to the community for free was the best choice of action.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+You can click on `Releases`, and then get the `.mcaddon` file to import the addon directly into minecraft.
